@@ -1,5 +1,5 @@
 def call() {
 
-    echo "Hi Everyone, Siriya this side"
+    echo "Jenkins is very vast topic to learn"
 
 } 
