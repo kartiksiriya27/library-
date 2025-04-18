@@ -1,5 +1,5 @@
 def call() {
 
-    echo "Jenkins is very vast topic to learn"
+    echo "Working on Jenkins Shared library topic"
 
 } 
